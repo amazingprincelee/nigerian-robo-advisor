@@ -34,6 +34,12 @@ html {
  .div-style{
   border: #004d00 solid 1px;
  }
+
+ .desc {
+  border: lime 1px solid;
+  box-shadow: 10px 10px 5px grey; 
+}
+
   
   .portfolio-container{
     display: flex;
