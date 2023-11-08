@@ -99,19 +99,19 @@ function RiskScore() {
                     <h1>Lorem</h1>
                         <div class="p-3">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </div>
                     </div>
-                    <div class="col-6 desc">
+                    <div class="col-md-6 desc">
                     <h1>Lorem</h1>
                         <div class="p-3">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </div>
                     </div>
-                    <div class="col-6 desc">
+                    <div class="col-md-6 desc">
                     <h1>Lorem</h1>
                         <div class="p-3">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.  unchanged. It was popularised in</div>
                     </div>
-                    <div class="col-6 desc">
+                    <div class="col-md-6 desc">
                         <h1>Lorem</h1>
                         <div class="p-3">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </div>
                     </div>
-                    <div class="col-6 desc">
+                    <div class="col-md-6 desc">
                         <h1>Lorem</h1>
                         <div class="p-3">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </div>
                     </div>
