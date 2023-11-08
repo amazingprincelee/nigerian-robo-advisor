@@ -41,7 +41,7 @@ function Footer() {
           </div>
         </div>
         <div className="text-center mt-3">
-          <p className="mb-0">Copyright &copy; {year} Nigerian RoboAdvisor. All rights reserved.<br/>Design by Prince Nna</p>
+          <p className="mb-0">Copyright &copy; {year} Nigerian RoboAdvisor. All rights reserved.<br/>Designed by Prince Nna</p>
           
         </div>
       </div>
