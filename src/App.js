@@ -9,7 +9,7 @@ function App() {
   // Define variants for the animations
   const containerVariants = {
     hidden: { opacity: 0, y: 20 },
-    visible: { opacity: 1, y: 0, transition: { duration: 0.6 } },
+    visible: { opacity: 1, y: 0, transition: { duration: 0.9 } },
   };
 
   return (
